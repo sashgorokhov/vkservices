@@ -1,0 +1,10 @@
+groups:
+  43885944:
+    confirmation_token: 5abd4382
+    whitelist: []
+
+client_id: 6203144
+scope:
+  - wall
+
+users: []
